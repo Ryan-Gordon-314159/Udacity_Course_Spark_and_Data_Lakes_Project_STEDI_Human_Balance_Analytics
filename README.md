@@ -1,7 +1,3 @@
-# Data-Engineering-Project-Stedi-Human-Balance-Analytics
-
-Repo for Data Engineering Nanodegree Project: STEDI Human Balance Analytics
-
 # Project Overview
 
 This project uses AWS Glue and Spark to process data from multiple sources to be categorized and curated for queries.
